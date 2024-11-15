@@ -1,3 +1,4 @@
 {
-  "expiry_date": "2024-11-15T12:00:00Z"
+  "expiryDays": 9999999999999999,
+  "message": "This data will expire after the specified number of days."
 }
